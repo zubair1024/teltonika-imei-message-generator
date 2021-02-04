@@ -1,6 +1,6 @@
 {
   "name": "teltonika-imei-message-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple tool to generate a teltonika imei message",
   "main": "./bin/index.js",
   "preferGlobal": true,
@@ -16,5 +16,9 @@
     "IMEI"
   ],
   "author": "Zubair Ahmed",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zubair1024/teltonika-imei-message-generator.git"
+  }
 }
